@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bluE4944
-- 👀 I’m interested in creation 
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in creation and Game
+- 🌱 I’m currently learning Java and Vue
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
