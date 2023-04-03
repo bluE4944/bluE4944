@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bluE4944
+- 👋 Hi, I’m @bluE
 - 👀 I’m interested in creation and Game
 - 🌱 I’m currently learning Java and Vue
 - 💞️ I’m looking to collaborate on ...
